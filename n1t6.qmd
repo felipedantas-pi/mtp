@@ -22,7 +22,7 @@ format:
     background-transition: fade
     height: 800
     width: 1080
-    footer: "Espaço Geográfico e Social | Felipe Dantas"
+    footer: "Espaço Geográfico, Espaço Social, Organização Espacial e Produção do Espaço | Felipe Dantas"
     # logo: "imagens/ifpi.png"
 title-slide-attributes: 
     data-background-image: "imagens/mapeprof.png"
