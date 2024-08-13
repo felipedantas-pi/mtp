@@ -8,7 +8,10 @@ date-format: DD-MM-YYYY
 lang: "pt-br"
 format: 
   revealjs:
+    controls: true
     embed-resources: true
+    smaller: true
+    scrollable: true
     theme: urbn.scss
     highlight-style: github
     slide-number: true
@@ -17,83 +20,96 @@ format:
     toc-title: "Sumário"
     transition: slide
     background-transition: fade
-    height: 720
-    width: 1080
+    height: 900
+    width: 1300
     footer: "Espaço Geográfico e Social | Felipe Dantas"
-    # logo: "imagens/mapeprof.png"
-    include-after-body: format-title-page.html
+    # logo: "imagens/ifpi.png"
 title-slide-attributes: 
-    data-background-image: "imagens/ifpi.png"
-    data-background-size: 10%
-    data-background-position: 10% 85%
+    data-background-image: "imagens/mapeprof.png"
+    data-background-size: 20%
+    data-background-position: 90% 83%
 ---
 
-## Compreensão do Espaço Geográfico {.smaller}
+## 1 Geografia ou Geografias?
 
-**Definição simplista de espaço geográfico**
+Geografia Física Vs Geografia Humana
 
--   Definir o espaço geográfico apenas como a superfície da Terra é uma visão limitada.
--   Visão "naturalizante" do espaço geográfico que prioriza aspectos naturais em detrimento da ocupação humana.
+:::: {.columns}
 
-::: fragment
-
-::: callout-note
-A Geografia vai além da simples observação da natureza; ela inclui a relação complexa entre natureza e sociedade
-:::
-
-:::
-
-## Espaço Geográfico x Espaço Social {.smaller}
-
--   Espaço social: espaço geográfico apropriado, transformado e produzido pela sociedade.
--   Uso metafórico do termo "espaço social" pelos sociólogos: campo de atuação ou relações sociais.
+::: {.column width=50%}
 
 ::: {.fragment}
+![Emmanuel de Martonne](./imagens/fotografias/emmanuel_martonne.jpeg){width=110 fig-align="left" #fig-martonne}
+:::
 
+- Geografia Física
+  - Conhecimento da **natureza** = Espaço Geográfico
+    - Visão Simplista:
+      - Aspectos naturais (hidrografia, topografia, ...)
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment}
+![Vidal de la Blache](./imagens/fotografias/vidal_blache.jpg){width=115 fig-align="left" #fig-blache}
+:::
+
+- Geografia Humana
+  -  Conhecimento da **sociedade** = Espaço Social
+     -  Visão Simplista:
+        -  Espaço geográfico apropriado, transformado e produzido
+:::
+
+::::
+
+---
+
+### 1.1 Conceito-Matriz para a Geografia
+
+:::: {.columns}
+::: {.column width="50%"}
+- Geografia não deve ser vista como uma ciência de síntese nem puramente social.
+  - Polos epistemológicos
+- Epistemologia bipolarizada: estudo da natureza e da sociedade.
+
+- Unidade na diversidade
+  - Proposta de um abordagem integradora, inspirada em Élisée Reclus
+  - Interdependêcia, Cooperação para um entendimento mais completo
+
+:::
+::: {.column width="50%"}
+::: {.fragment}
+![](./imagens/fotografias/elisiee_reclus.jpg){width=300 fig-align="center" #fig-reclus}
+:::
+:::
+::::
+
+- **Sociedade** e **Natureza** se interligam dialeticamente formando o **ESPAÇO GEOGRÁFICO**
+  - Conceitos de **Primeira Natureza** (natureza intocada) e **Segunda Natureza** (natureza transformada pela sociedade)
+
+::: {.fragment}
 ::: callout-important
-A Geografia trata do espaço social de forma concreta, enquanto a Sociologia pode tratá-lo de forma abstrata e metafórica.
+**Espaço geográfico** é o palco onde ocorrem as interações entre a sociedade e a natureza, abrangendo tanto os aspectos físicos da Terra (como relevo e clima) quanto as modificações feitas pelo ser humano, como cidades e infraestruturas. Portanto, ele é visto como um conceito mais amplo, integrando as dimensões naturais e sociais.
 :::
-
 :::
-
-## Relação da Geografia com a Natureza {.smaller}
-
-**Geografia: Ciência da Natureza e da Sociedade**
-
--   Geografia não deve ser vista como uma ciência puramente social.
--   Epistemologia bipolarizada: estudo da natureza e da sociedade.
 
 ::: {.fragment}
-
-::: callout-tip
-A integração da Geografia Física e Humana é essencial para uma compreensão holística da disciplina.
+::: callout-important
+**Espaço social** é o *espaço geográfico* apropriado, transformado e produzido pela sociedade. Ele vai além da materialidade, incluindo as relações sociais e simbólicas que se estabelecem nesse espaço.
+:::
 :::
 
+::: {.footer}
 :::
 
+## 2. Conceitos derivados do *espaço social*
 
-## Primeira e Segunda Natureza {.smaller}
-
-**Conceitos de Primeira e Segunda Natureza**
-
--   **Primeira natureza**: natureza intocada pelo homem.
--   **Segunda natureza**: natureza transformada pela sociedade.
--   Influências culturais sempre presentes, mesmo no estudo da "primeira natureza".
-
-::: {.fragment}
-
-::: callout-warning
-É importante reconhecer que a "primeira natureza" nunca é totalmente separada das influências culturais e históricas.
-:::
-
-:::
-
-## Território e Lugar {.smaller}
+### 2.1 Território e Lugar
 
 **Dinâmicas do Território e Significado do Lugar**
 
--   **Território:** Relação social diretamente espacializada.
-    -   Exemplo: Estudantes dividindo uma mesa; prostitutas disputando espaço em uma rua.
+- **Território:** Relação social diretamente espacializada.
+  - Exemplo: Estudantes dividindo uma mesa; prostitutas disputando espaço em uma rua.
 
 ::: {.fragment}
 ::: callout-note
@@ -101,8 +117,8 @@ A dinâmica do território é influenciada pelas relações sociais e disputas d
 :::
 :::
 
--   **Lugar:** Espaço com significado simbólico e associado à vivência humana.
-    -   Imagem de lugar pode mudar sem alteração do espaço físico.
+- **Lugar:** Espaço com significado simbólico e associado à vivência humana.
+  - Imagem de lugar pode mudar sem alteração do espaço físico.
 
 ::: {.fragment}
 ::: callout-tip
@@ -110,66 +126,40 @@ Os lugares carregam significados que podem evoluir ao longo do tempo, independen
 :::
 :::
 
-::::
+---
 
-## Organização Espacial e Produção do Espaço {.smaller}
-
-### Organização Espacial {.smaller}
-
-**Complexidade da Organização Espacial**
+### 2.2 Organização espacial
 
 -   **Crítica à visão limitada:** Organização espacial não se resume a objetos criados pelo homem.
 -   **Inclusão da "primeira natureza":** Elementos naturais também fazem parte da organização espacial.
 -   **Dinamicidade da organização espacial:** Está em constante mudança e é influenciada por ideologias.
 
+::: {.fragment}
 ::: callout-important
 A organização espacial vai além da materialidade, incluindo fronteiras, divisões e relações sociais.
 :::
+:::
 
-### **Produção do Espaço**
+---
 
--   **Base na obra de Lefebvre:** A produção do espaço é fundamental para a acumulação capitalista.
--   **Além do materialismo:** Importância da produção simbólica e das relações de poder.
--   **Criação e repetição de significados:** Baseada em Cornelius Castoriadis.
+### 2.3 Produção do espaço
 
+- **Base na obra de Lefebvre:** A produção do espaço é fundamental para a acumulação capitalista.
+- **Além do materialismo:** Importância da produção simbólica e das relações de poder.
+- **Criação e repetição de significados:** Baseada em Cornelius Castoriadis.
+
+::: {.fragment}
 ::: callout-warning
 A produção do espaço envolve não apenas aspectos econômicos, mas também a construção de significados e relações de poder.
 :::
-
-## Produção do Espaço e Acumulação Capitalista {.smaller}
-
-**A Produção do Espaço na Ótica de Lefebvre**
-
--   A produção do espaço é crucial para a acumulação capitalista.
--   Lefebvre: Espaço é produzido e reproduzido como parte da dinâmica capitalista.
--   **Importância de ir além do materialismo:**
-    -   A produção do espaço inclui aspectos simbólicos e de relações de poder.
--   **Criação e repetição de significados:**
-    -   Conceitos de Cornelius Castoriadis: produção não é apenas criação, mas também repetição e manutenção de significados.
-
-::: callout-important
-A compreensão da produção do espaço deve considerar tanto os aspectos econômicos quanto os simbólicos e de poder.
 :::
 
-## Conclusão {.smaller}
 
-**Reflexões Finais**
+## 3. Conclusão
 
 -   **Geografia como campo complexo:** Integra o estudo da natureza e da sociedade.
 -   **Rejeição à dicotomização:** Espaço geográfico e social são interdependentes e não devem ser tratados separadamente.
 -   **Elementos em constante transformação:** Produção do espaço, organização espacial, território, e lugar são dinâmicos e em contínuo processo de mudança.
 
-::: callout-note
-A Geografia oferece uma visão rica e integrada das interações entre natureza, sociedade, e espaço, essencial para entender as dinâmicas contemporâneas.
-:::
 
-## Agradecimentos
-
-**Obrigado!**
-
--   Agradeço pela atenção.
--   Perguntas e discussões são bem-vindas!
-
-::: callout-tip
-Encoraje a participação do público para enriquecer a discussão e explorar mais a fundo os temas abordados.
-:::
+## OBRIGADO!

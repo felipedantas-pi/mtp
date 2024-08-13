@@ -70,28 +70,21 @@ $callout-color-tip: $green;
 
 /*-- scss:rules --*/
 
-
 // Variables
-
 $text-shadow: 0 1px 0 rgba(0, 0, 0, .05) !default;
 
 // Mixins
-
 @mixin btn-shadow($color){
   @include gradient-y-three-colors(tint-color($color, 16%), $color, 60%, shade-color($color, 6%));
 }
 
 // Navbar
-
-
-
 .navbar-brand,
 .nav-link {
   text-shadow: $text-shadow;
 }
 
 // Buttons
-
 .btn {
   text-shadow: $text-shadow;
 }
@@ -148,7 +141,7 @@ h2 {
 .reveal .slide-logo {
   bottom: 100px;
   left: 200px;
-  max-height: 3rem !important;
+  max-height: 4rem !important;
   height: 100%;
   width: auto;
 }
@@ -157,6 +150,7 @@ h2 {
 // footer 
 .reveal .footer a {
   color: $cyan;
+  font-size: 10px;
 }
 
 .reveal .footer {
@@ -173,28 +167,26 @@ h2 {
 // body  
 
 body {
-  padding-right: 30px;
+  padding-right: 10px;
 }
 
 
 // title 
+#title-slide .author {
+  font-size: 80px!important;
+}
 
 .quarto-title-block  {
-  top: 50px !important; 
+  top: 10px !important; 
 }
+
+// #title-slide .author:after {
+//   content: url('/mtp/imagens/mapeprof.png');
+//   display: block;
+// }
 
 // aside
 
 .reveal .slide aside, .reveal .slide div.aside {
   color: #9d9d9d
-}
-
-// code 
-
-code {
-  font: 30px arial,sans-serif
-}
-
-.reveal pre code {
-  color: #4758AB
 }
