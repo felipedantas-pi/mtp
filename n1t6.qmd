@@ -1,6 +1,6 @@
 ---
-title: "Espaço Geográfico e Social: Uma Análise Crítica"
-subtitle: "Exploração das Relações Entre Natureza e Sociedade"
+title: "Espaço Geográfico e Social"
+# subtitle: "Explorando das Relações Entre Natureza e Sociedade"
 author: "Mestrando: Felipe Ramos Dantas"
 institute: "Instituto Federal do Piauí - Campus Teresina Central"
 date: "2024-08-13"
@@ -130,9 +130,9 @@ Os lugares carregam significados que podem evoluir ao longo do tempo, independen
 
 ### 2.2 Organização espacial
 
--   **Crítica à visão limitada:** Organização espacial não se resume a objetos criados pelo homem.
--   **Inclusão da "primeira natureza":** Elementos naturais também fazem parte da organização espacial.
--   **Dinamicidade da organização espacial:** Está em constante mudança e é influenciada por ideologias.
+- **Crítica à visão limitada:** Organização espacial não se resume a objetos criados pelo homem.
+- **Inclusão da "primeira natureza":** Elementos naturais também fazem parte da organização espacial.
+- **Dinamicidade da organização espacial:** Está em constante mudança e é influenciada por ideologias.
 
 ::: {.fragment}
 ::: callout-important
@@ -157,9 +157,9 @@ A produção do espaço envolve não apenas aspectos econômicos, mas também a 
 
 ## 3. Conclusão
 
--   **Geografia como campo complexo:** Integra o estudo da natureza e da sociedade.
--   **Rejeição à dicotomização:** Espaço geográfico e social são interdependentes e não devem ser tratados separadamente.
--   **Elementos em constante transformação:** Produção do espaço, organização espacial, território, e lugar são dinâmicos e em contínuo processo de mudança.
+- **Geografia como campo complexo:** Integra o estudo da natureza e da sociedade.
+- **Rejeição à dicotomização:** Espaço geográfico e social são interdependentes e não devem ser tratados separadamente.
+- **Elementos em constante transformação:** Produção do espaço, organização espacial, território, e lugar são dinâmicos e em contínuo processo de mudança.
 
 
 ## OBRIGADO!
