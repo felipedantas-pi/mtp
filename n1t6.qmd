@@ -20,8 +20,8 @@ format:
     toc-title: "Sumário"
     transition: slide
     background-transition: fade
-    height: 900
-    width: 1300
+    height: 800
+    width: 1080
     footer: "Espaço Geográfico e Social | Felipe Dantas"
     # logo: "imagens/ifpi.png"
 title-slide-attributes: 
