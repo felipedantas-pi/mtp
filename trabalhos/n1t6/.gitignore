@@ -24,3 +24,4 @@ vignettes/*.pdf
 *.knit.md
 # Mac files
 *.DS_Store
+/.quarto/
