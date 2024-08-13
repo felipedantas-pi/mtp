@@ -1,5 +1,5 @@
 ---
-title: "Espaço Geográfico e Social"
+title: "Espaço Geográfico, Espaço Social, Organização Espacial e Produção do Espaço"
 # subtitle: "Explorando das Relações Entre Natureza e Sociedade"
 author: "Mestrando: Felipe Ramos Dantas"
 institute: "Instituto Federal do Piauí - Campus Teresina Central"
